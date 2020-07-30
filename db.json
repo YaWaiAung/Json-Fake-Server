@@ -1,36 +1,44 @@
 {
-    "users": [
+    "students": [
         {
             "id":"1",
-            "firstName":"Animesh",
-            "lastName":"Roy",
-            "email":"ani@gmail.com",
-            "age":21,
-            "companyId":"1"
+            "name":"Aung Aung",
+            "major":"Chemistry",
+            "year":"Third Year",
+            "room": 4,
+            "email":"aungaung@gmail.com"
         },
         {
             "id":"2",
-            "firstName":"Rahul",
-            "lastName":"Sharma",
-            "email":"rahul@gmail.com",
-            "age":20,
-            "companyId":"1"
+            "name":"Hla Hla",
+            "major":"Computer Science",
+            "year":"Second Year",
+            "room": 1,
+            "email":"hlahla@gmail.com"
         },
         {
             "id":"3",
-            "firstName":"Mark",
-            "lastName":"Tyson",
-            "email":"lipon21@gmail.com",
-            "age":22,
-            "companyId":"1"
+            "name":"Su Su",
+            "major":"Computer Science",
+            "year":"Second Year",
+            "room": 2,
+            "email":"susu@gmail.com"
         }, 
         {
-            "id":"4",
-            "firstName":"Saurav",
-            "lastName":"Kumar",
-            "email":"saurav@gmail.com",
-            "age":24,
-            "companyId":"1"
+            "id":"5",
+            "name":"Ko Hla Phay",
+            "major":"Chemistry",
+            "year":"First Year",
+            "room": 4,
+            "email":"kohla@gmail.com"
+        },
+        {
+            "id":"6",
+            "name":"Sar Ouu",
+            "major":"History",
+            "year":"Second Year",
+            "room": 4,
+            "email":"sarsar@gmail.com"
         }
     ],
     "companies":[
