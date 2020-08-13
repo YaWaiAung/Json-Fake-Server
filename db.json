@@ -61,36 +61,41 @@
             "description":"Google Inc., American search engine company, founded in 1998 by Sergey Brin and Larry Page, that is a subsidiary of the holding company Alphabet Inc. More than 70 percent of worldwide online search requests are handled by Google, placing it at the heart of most Internet users' experience."
         }
     ],
-    "contacts": [
+    "categories": [
           {
-            "name": "Animesh Roy",
-            "country": "India",
-            "phone": "2322984953",
-            "id": 1
+            "id": "1",
+            "name": "Bicycle",
+            "image" : "https://images-na.ssl-images-amazon.com/images/I/818BWCuUFIL._SX425_.jpg",
+            "created_date":"10/06/2020",
+            "updated_date": "13/08/2020"
           },
           {
-            "name": "Aakash Choudhury",
-            "country": "USA",
-            "phone": "4930384837",
-            "id": 2
+            "id": "2",
+            "name": "Car",
+            "image" : "https://patriziawish.com/wp-content/uploads/2019/06/1561682347.jpg",
+            "created_date":"11/05/2020",
+            "updated_date": "12/08/2020"
           },
           {
-            "name": "Arun Dey",
-            "country": "Brazil",
-            "phone": "5748493812",
-            "id": 3
+            "id": "3",
+            "name": "Cake",
+            "image" : "https://www.lifeloveandsugar.com/wp-content/uploads/2014/08/Best-Moist-Chocolate-Cake4.jpg",
+            "created_date":"06/04/2020",
+            "updated_date": "09/08/2020"
           },
           {
-            "name": "Vikash Choudhury",
-            "country": "New Zeland",
-            "phone": "9873625261",
-            "id": 4
+            "id": "4",
+            "name": "Computer",
+            "image" : "https://egenonlineshop.com/wp-content/uploads/2018/10/Dell-780-1TB-Windows-10-64-Bit-Desktop.jpg",
+            "created_date":"25/11/2019",
+            "updated_date": "20/07/2020"
           },
           {
-            "name": "Gaurav Gupta",
-            "country": "Russia",
-            "phone": "7002873284",
-            "id": 5
+            "id": "5",
+            "name": "Book",
+            "image" : "https://www.thewilloughbybookclub.co.uk/ekmps/shops/thewbc/images/the-bespoke-book-club-132-p.png",
+            "created_date":"11/04/2019",
+            "updated_date": "10/09/2020"
           }
         ]
 }
